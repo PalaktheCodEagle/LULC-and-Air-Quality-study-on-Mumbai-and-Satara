@@ -42,7 +42,7 @@ The project combines data from **Landsat-8/9**, **Sentinel-5P**, and government 
 
 ---
 
-## 📈 Results
+## Results
 
 - Mumbai shows a sharp rise in built-up areas and worsening AQI by 2035
 - Satara maintains higher green cover with lower pollution risk
@@ -52,7 +52,7 @@ The project combines data from **Landsat-8/9**, **Sentinel-5P**, and government 
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - High correlation between LULC changes and air quality
 - Deep learning models outperform traditional classifiers in LULC mapping
@@ -61,7 +61,7 @@ The project combines data from **Landsat-8/9**, **Sentinel-5P**, and government 
 
 ---
 
-## 📚 References
+## References
 
 - Google Earth Engine
 - Maharashtra Pollution Control Board
@@ -71,7 +71,7 @@ The project combines data from **Landsat-8/9**, **Sentinel-5P**, and government 
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 
 - Kapil Sunil Bhatia
 - Dakshita Sanjay Kolte
@@ -83,6 +83,6 @@ Dept. of Computer Engineering, KJSIT
 
 ---
 
-## 📌 Note
+## Note
 
 This project is academic and research-oriented. Data sources were used under fair academic usage.
