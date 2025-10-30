@@ -52,15 +52,6 @@ The project combines data from **Landsat-8/9**, **Sentinel-5P**, and government 
 
 ---
 
-## Key Learnings
-
-- High correlation between LULC changes and air quality
-- Deep learning models outperform traditional classifiers in LULC mapping
-- Explainable AI helps in identifying actionable insights
-- Remote sensing data significantly aids in environmental prediction
-
----
-
 ## References
 
 - Google Earth Engine
