@@ -47,7 +47,7 @@ The project combines data from **Landsat-8/9**, **Sentinel-5P**, and government 
 - Mumbai shows a sharp rise in built-up areas and worsening AQI by 2035
 - Satara maintains higher green cover with lower pollution risk
 - SHAP identified built-up and vegetation loss as major drivers
-- LIME showed NO₂ and PM2.5 as dominant AQI indicators
+- LIME showed NO₂ and PM₂․₅ as dominant AQI indicators
 - GPR-based forecasting reveals rising diphtheria risk with pollution
 
 ---
