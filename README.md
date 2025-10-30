@@ -1,6 +1,6 @@
-# 🌍 Transforming Landscapes: Impact of LULC on Air Quality
+# Transforming Landscapes: Impact of LULC on Air Quality
 
-## 🔍 Overview
+## Overview
 
 This project explores the relationship between **Land Use Land Cover (LULC)** patterns and **Air Quality** across two contrasting regions in Maharashtra — Mumbai and Satara. It uses remote sensing and machine learning to classify land use, predict future air quality trends, and assess potential health risks using explainable AI.
 
@@ -8,7 +8,7 @@ The project combines data from **Landsat-8/9**, **Sentinel-5P**, and government 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Classify LULC in Mumbai and Satara using satellite data
 - Predict future LULC trends using QGIS and AI models
@@ -18,7 +18,7 @@ The project combines data from **Landsat-8/9**, **Sentinel-5P**, and government 
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 | Technology              | Purpose                                      |
 | ----------------------- | -------------------------------------------- |
@@ -30,23 +30,15 @@ The project combines data from **Landsat-8/9**, **Sentinel-5P**, and government 
 
 ---
 
-## 🧪 Models Implemented
+## Models Implemented
 
-- 📦 **LULC Classification Models**:
+- **LULC Classification Models**: 1D-CNN, MLP, LSTM, CNN+LSTM, CNN+MLP, MLP+LSTM
 
-  - 1D-CNN, MLP, LSTM, CNN+LSTM, CNN+MLP, MLP+LSTM
+- **AQI Forecasting**: GRU + Graph Convolutional Network (GCN)
 
-- 🌫 **AQI Forecasting**:
+- **Explainable AI**: SHAP for LULC interpretation, LIME for AQI classification
 
-  - GRU + Graph Convolutional Network (GCN)
-
-- 🧠 **Explainable AI**:
-
-  - SHAP for LULC interpretation
-  - LIME for AQI classification
-
-- 🏥 **Health Risk Prediction**:
-  - Composite Kernel Gaussian Process Regression (GPR)
+- **Health Risk Prediction**: Composite Kernel Gaussian Process Regression (GPR)
 
 ---
 
